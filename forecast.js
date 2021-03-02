@@ -1,4 +1,4 @@
-const key='XyYluBSQ3bpw2TbWmMPkAcAjVWVJ87cC';
+const key='OfoSNpfWFKcr8K0xHj9AkkNEhFO4brZm';
 //get weather info
 const getWeather= async(id)=>{
     const base='http://dataservice.accuweather.com/currentconditions/v1/';
